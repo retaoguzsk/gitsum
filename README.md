@@ -1,1 +1,1 @@
-Clarify triton server boolean value (#8532)
+Fix docs links (#7096)
