@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Fix RTDETR generate anchor grid out of boundary (#7247)
