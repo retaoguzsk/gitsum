@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Feature: Create HUB Models from CLI or Python Script (#7316)
