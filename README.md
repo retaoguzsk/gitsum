@@ -1,1 +1,1 @@
-Add Ultralytics HUB Cloud Training banner to Docs (#8656)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
