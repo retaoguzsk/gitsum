@@ -1,1 +1,1 @@
-fix predict with class filter
+Fix PIL show() and save() (#8202)
