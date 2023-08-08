@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Compare plt.get_backend() in lowercase (#8409)
