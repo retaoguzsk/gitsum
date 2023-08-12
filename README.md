@@ -1,1 +1,1 @@
-ultralytics 8.0.231 use new pyproject.toml (#7185)
+ultralytics 8.1.6 revert 8.0.206 box ops box scaling (#7823)
