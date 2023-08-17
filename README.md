@@ -1,1 +1,1 @@
-ultralytics 8.1.12 new Results.show() and Results.save() (#8166)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
