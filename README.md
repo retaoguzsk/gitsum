@@ -1,1 +1,1 @@
-ultralytics 8.1.13 fix yolo train time= bug (#8179)
+Bump nick-invision/retry from 2 to 3 in /.github/workflows (#8023)
