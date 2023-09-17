@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Move Explorer tests to scheduled CI (#8305)
