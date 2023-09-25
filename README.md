@@ -1,1 +1,1 @@
-YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
+ultralytics 8.0.235 YOLOv8 OBB train, val, predict and export (#4499)
