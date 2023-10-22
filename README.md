@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Add horizontal Mosaic3 augmentation (#6898)
