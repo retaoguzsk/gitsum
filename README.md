@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
