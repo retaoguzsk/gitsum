@@ -1,1 +1,1 @@
-update requirements.txt
+Fix Multi-GPU resume bug (#7328)
