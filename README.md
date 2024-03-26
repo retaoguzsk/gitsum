@@ -1,1 +1,1 @@
-Update the heatmap module code + docs (#7045)
+Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
