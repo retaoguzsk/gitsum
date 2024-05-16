@@ -1,1 +1,1 @@
-Fix OpenVINO links (#7930)
+Add OBB benchmarks to CI (#7777)
