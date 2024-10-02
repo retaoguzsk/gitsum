@@ -1,1 +1,1 @@
-Batch inference fixes (#8854)
+Update H1 in Explorer API docs (#7813)
